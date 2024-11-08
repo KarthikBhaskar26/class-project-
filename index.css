@@ -1,6 +1,6 @@
 html, body {
     height: 100%;
-    background-color: rgb(51, 47, 76);
+    background-color: rgb(240, 235, 90);
     width: 100%;
     margin: 0;
     padding: 0;
@@ -23,14 +23,14 @@ html, body {
 
 .heading {
     font-family: "Libre Baskerville", serif;
-    color: white;
+    color: black;
     font-size: 50px;
     margin: 25px 0;
 }
 
 .subheading {
     font-family: "Libre Baskerville", serif;
-    color: white;
+    color: black;
     font-size: 30px;
     margin-top: 20px;
 }
